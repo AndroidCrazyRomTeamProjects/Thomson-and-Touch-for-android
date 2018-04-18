@@ -2,6 +2,7 @@ package com.lg.neocyon.thomsons;
 
 //import com.lg.neocyon.thomsons.loading//
 import android.support.v7.app.AppCompatActivity;
+import android.media.AudioManager;
 import android.os.Bundle;
 import android.view.Display;
 import android.view.Window;
