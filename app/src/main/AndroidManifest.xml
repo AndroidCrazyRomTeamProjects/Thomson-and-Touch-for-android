@@ -20,6 +20,11 @@
             android:name=".ChefGame"
             android:label="@string/app_name">
         </activity>
+
+        <activity
+            android:name=".DogGame"
+            android:label="@string/app_name">
+        </activity>
     </application>
 
 </manifest>
