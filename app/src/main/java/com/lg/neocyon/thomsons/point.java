@@ -1,19 +1,8 @@
 package com.lg.neocyon.thomsons;
 
-import android.graphics.Point;
-import android.graphics.drawable.Animatable;
-import android.content.Intent;
-import android.graphics.Point;
-import android.graphics.drawable.Drawable;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.view.Display;
-import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
+import com.lg.neocyon.thomsons.BaseCanvas;
 
-
-public class point {
+public class Point {
     public final int MAX_STAR = 3;
     public final int MAX_PERCENT = 10;
     public final int MIN_PERCENT = 3;

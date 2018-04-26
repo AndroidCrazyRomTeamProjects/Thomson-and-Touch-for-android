@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.Display;
 import android.view.Window;
 import android.view.WindowManager;
+import com.lg.neocyon.thomsons.BaseCanvas;
 
 
 
